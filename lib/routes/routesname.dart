@@ -1,0 +1,66 @@
+class RoutesName {
+  static const String splashScreen = "splash_screen";
+  static const String loginScreen = "login_screen";
+  static const String createPinActivity="createPinActivity";
+  static const String registerWithMobileNumberActivity = "registerWithMobileNumberActivity";
+  static const String otpScreenActivity = "OtpScreenActivity";
+  static const String dashboardScreen = "dashboard_screen";
+  static const String aboutAppScreen = "about_app_screen";
+  static const String aboutUsForAppScreen = "about_us_for_app_screen";
+  //==============for New ==========
+  static const String schoolDetailsScreen = "SchoolDetailsScreen";
+  static const String indicatorDetailsScreen = "IndicatorDetailsScreen";
+  static const String fillProgressDetailsScreen = "FillProgressDetailsScreen";
+  //==================Report ==============
+  static const String schoolDetailsScreenReport = "SchoolDetailsScreenReport";
+  static const String schoolWiseProgressDetails = "SchoolWiseProgressDetails";
+  //============================New For School Management Home Work==============
+  static const String homeScreen = "homeScreen";
+  static const String attendanceScreen = "AttendanceScreen";
+  static const String dayWiseAttendance = "dayWiseAttendance";
+  static const String achievementsScreen = "AchievementsScreen";
+  static const String applyLeaveScreen = "ApplyLeaveScreen";
+  static const String leaveScreen = "LeaveScreen";
+  static const String calendarScreen = "CalendarScreen";
+  static const String imageGalleryScreen = "ImageGalleryScreen";
+  static const String showSingleImageScreen = "ShowSingleImageScreen";
+  static const String feesScreen = "FeesScreen";
+  static const String feesReceiptScreen = "FeesReceiptScreen";
+  static const String classFeesReceiptScreen = "ClassFeesReceiptScreen";
+  static const String circularScreen = "CircularScreen";
+  static const String circularDetailsScreen = "CircularDetailsScreen";
+  static const String schoolVisitScreen = "SchoolVisitScreen";
+  static const String appointmentScheduleScreen = "appointmentScheduleScreen";
+  static const String mailBoxScreen = "MailBoxScreen";
+  static const String composeScreen = "ComposeScreen";
+  static const String libraryScreen = "LibraryScreen";
+  static const String transportRequest = "TransportRequest";
+  static const String syllabusScreen = "SyllabusScreen";
+  static const String resultScreen = "ResultScreen";
+  static const String newsScreen = "NewsScreen";
+  static const String detailNewsScreen = "DetailNewsScreen";
+  static const String timeTableScreen = "TimeTableScreen";
+  static const String inBoxOutBoxMailScreen = "InBoxOutBoxMailScreen";
+  static const String bookEntryFormScreen = "BookEntryFormScreen";
+  static const String libraryRegisterScreen = "LibraryRegisterScreen";
+  static const String issuesBookScannerScreen = "IssuesBookScannerScreen";
+  static const String addBookScreen = "AddBookScreen";
+  static const String hostelDashboardScreen = "HostelDashboardScreen";
+  static const String showAllPersonForAttendanceActivity = "ShowAllPersonForAttendanceActivity";
+  static const String showAllEmployeeActivity = "ShowAllEmployeeActivity";
+  static const String geoFencingLocationActivity = "geoFencingLocationActivity";
+  static const String takeAttendanceActivity = "TakeAttendanceActivity";
+  static const String faceCaptureViewActivity = "FaceCaptureViewActivity";
+  static const String allotmentDetailsActivity = "AllotmentDetailsActivity";
+  static const String studentLeaveDetails = "StudentLeaveDetails";
+  static const String schoolListDetailsScreen = "SchoolListDetailsScreen";
+  static const String campusView="campusView";
+  static const String campusInfraReport="campusInfraReport";
+  static const String qrScanPage="QRScanPage";
+  static const String individualTagging="individualTagging";
+  static const String myFormScreen="myFormScreen";
+  static const String requestForQRData="requestForQRData";
+  static const String reportForIndividualStock="ReportForIndividualStock";
+  static const String walkingTrack="walkingTrack";
+  static const String registrationDoneScreen="registrationDoneScreen";
+}

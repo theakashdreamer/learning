@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175240813690",
+    "project_id": "ambulancepassengerapp",
+    "storage_bucket": "ambulancepassengerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175240813690:android:68189a481be99be20d6fc3",
+        "android_client_info": {
+          "package_name": "com.technosys.ambulancepassenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuj92XN-ZGbBGqUY9izENzFdsBFV4lr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
